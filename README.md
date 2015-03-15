@@ -2,7 +2,7 @@
 Responsive parallax slider provided by http://tympanus.net/codrops/2011/01/03/parallax-slider/ with added functionality.
 
 ### Contribute
-if you want to contribute to make it better you are welcom :)
+if you want to contribute to make it a better work you are welcom :)
 
 ### example
 you can see the slider with the new functionality at my website: www.paris-web.it/slider.html
