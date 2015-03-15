@@ -73,7 +73,7 @@ start the slider:
 
 
 # TO DO:
-*auto generate progress bar
-*progress bar toggle option
-*dynamic css for X progress bar
-*add next-prev button functionality again(actually only next will work, used in curcular mode), navigation works only with thumbnails
+* auto generate progress bar
+* progress bar toggle option
+* dynamic css for X progress bar
+* add next-prev button functionality again(actually only next will work, used in curcular mode), navigation works only with thumbnails
