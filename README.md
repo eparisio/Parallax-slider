@@ -42,7 +42,21 @@ html:
 		</div>
 	</div>
 ```
+script:
+```
+	<script type="text/javascript" src="js/jquery.easing.1.3.js"></script>
+	<script src="js/slider.js" type="text/javascript"></script>
+```
+css:
+```
+	<link rel="stylesheet" type="text/css" href="css/pxs_style.css" />
+```
 
+start the slider:
+```
+	var $pxs_container	= $('#pxs_container');
+	$pxs_container.parallaxSlider();
+```
 ###Slider option:
     auto            : 5000,	    //how many seconds to periodically slide the content.
                                 //If set to 0 then autoplay is turned off.
