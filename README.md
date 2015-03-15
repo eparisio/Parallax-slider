@@ -1,4 +1,4 @@
-# Parallax-slider
+# Parallax slider
 Responsive parallax slider provided by [http://tympanus.net/](http://tympanus.net/codrops/2011/01/03/parallax-slider/) with added functionality.
 
 ### Contribute
