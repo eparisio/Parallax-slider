@@ -1,11 +1,11 @@
 # Parallax-slider
-Responsive parallax slider provided by http://tympanus.net/codrops/2011/01/03/parallax-slider/ with added functionality.
+Responsive parallax slider provided by [http://tympanus.net/](http://tympanus.net/codrops/2011/01/03/parallax-slider/) with added functionality.
 
 ### Contribute
 if you want to contribute to make it a better work you are welcom :)
 
 ### example
-you can see the slider with the new functionality at my website: www.paris-web.it/slider.html
+you can see the slider with the new functionality at my website: [paris-web](www.paris-web.it/slider.html)
 
 ##Building it:
 
@@ -71,3 +71,9 @@ start the slider:
     thumbRotation   : true,     //the thumbs will be randomly rotated
     horizontal      : false     //active only horizzontal slide
 
+
+# TO DO:
+*auto generate progress bar
+*progress bar toggle option
+*dynamic css for X progress bar
+*add next-prev button functionality again(actually only next will work, used in curcular mode), navigation works only with thumbnails
