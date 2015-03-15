@@ -45,13 +45,13 @@ html:
 	</div>
 ```
 script:
-```javascript
+```html
 	<script src='http://ajax.googleapis.com/ajax/libs/jquery/1.xx.xx/jquery.js'></script>
 	<script type="text/javascript" src="js/jquery.easing.1.3.js"></script>
 	<script src="js/slider.js" type="text/javascript"></script>
 ```
 css:
-```css
+```html
 	<link rel="stylesheet" type="text/css" href="css/pxs_style.css" />
 ```
 
