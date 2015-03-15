@@ -38,7 +38,9 @@ html:
 		</div>
 		<div class="progress_container">
 			<div class="progress_bar1"> <div class="progress" ></div> </div>
-			**YOUR PROGRESSION BAR THERE**
+			<div class="progress_bar2"> <div class="progress" ></div> </div>
+			<div class="progress_barX"> <div class="progress" ></div> </div>
+			**YOUR PROGRESSION BAR THERE (increment the class number)**
 		</div>
 	</div>
 ```
