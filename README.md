@@ -10,6 +10,7 @@ you can see the slider with the new functionality at my website: www.paris-web.i
 ##Building it:
 
 html:
+```
 	<div id="pxs_container" class="pxs_container">
 		<div class="pxs_bg">
 			<div class="pxs_bg1"></div>
@@ -40,6 +41,7 @@ html:
 			**YOUR PROGRESSION BAR THERE**
 		</div>
 	</div>
+```
 
 ###Slider option:
     auto            : 5000,	    //how many seconds to periodically slide the content.
