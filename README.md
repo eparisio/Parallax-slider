@@ -10,7 +10,7 @@ you can see the slider with the new functionality at my website: www.paris-web.i
 ##Building it:
 
 html:
-```
+```html
 	<div id="pxs_container" class="pxs_container">
 		<div class="pxs_bg">
 			<div class="pxs_bg1"></div>
@@ -45,18 +45,18 @@ html:
 	</div>
 ```
 script:
-```
+```javascript
 	<script src='http://ajax.googleapis.com/ajax/libs/jquery/1.xx.xx/jquery.js'></script>
 	<script type="text/javascript" src="js/jquery.easing.1.3.js"></script>
 	<script src="js/slider.js" type="text/javascript"></script>
 ```
 css:
-```
+```css
 	<link rel="stylesheet" type="text/css" href="css/pxs_style.css" />
 ```
 
 start the slider:
-```
+```javascript
 	var $pxs_container	= $('#pxs_container');
 	$pxs_container.parallaxSlider();
 ```
