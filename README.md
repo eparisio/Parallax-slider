@@ -44,6 +44,7 @@ html:
 ```
 script:
 ```
+	<script src='http://ajax.googleapis.com/ajax/libs/jquery/1.xx.xx/jquery.js'></script>
 	<script type="text/javascript" src="js/jquery.easing.1.3.js"></script>
 	<script src="js/slider.js" type="text/javascript"></script>
 ```
