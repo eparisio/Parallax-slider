@@ -77,3 +77,6 @@ start the slider:
 * progress bar toggle option
 * dynamic css for X progress bar
 * add next-prev button functionality again(actually only next will work, used in curcular mode), navigation works only with thumbnails
+
+#### Update:
+* 0.1 - added base files, created repository
