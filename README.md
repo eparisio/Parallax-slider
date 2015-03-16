@@ -69,7 +69,9 @@ start the slider:
     circular        : true,     //circular slider
     thumbnails      : true,     //active the thumbnails
     thumbRotation   : true,     //the thumbs will be randomly rotated
-    horizontal      : false     //active only horizzontal slide
+    horizontal      : true     //active only horizzontal slide
+    				//if set to false vertical(slider2) and orizontal(slider1) slide will trigger
+    				//if set to true only orizzontal(slider1) slide will trigger
 
 
 # TO DO:
